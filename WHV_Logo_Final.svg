@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 140" width="420" height="140">
+  <rect width="420" height="140" fill="white"/>
+
+  <!-- VV mark — geometric overlapping V's -->
+  <g transform="translate(70, 30)">
+    <!-- V1 - solid dark -->
+    <polygon points="-30,0 0,65 30,0 22,0 0,50 -22,0" fill="#1a1a1a"/>
+    <!-- V2 - outline grey, offset right -->
+    <polygon points="-5,0 25,65 55,0 47,0 25,50 3,0" fill="none" stroke="#999999" stroke-width="1.5"/>
+  </g>
+
+  <!-- Vertical separator -->
+  <line x1="150" y1="35" x2="150" y2="100" stroke="#dddddd" stroke-width="0.5"/>
+
+  <!-- Company name block -->
+  <text x="170" y="60" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="700" font-size="18" fill="#1a1a1a" letter-spacing="8">WEST HILL</text>
+  <text x="170" y="85" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="300" font-size="14" fill="#666666" letter-spacing="6">VENTURES LLC</text>
+</svg>

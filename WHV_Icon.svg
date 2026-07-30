@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140">
+  <rect width="140" height="140" fill="white"/>
+
+  <!-- VV mark — geometric overlapping V's, centered -->
+  <g transform="translate(57.5, 37.5)">
+    <!-- V1 - solid dark -->
+    <polygon points="-30,0 0,65 30,0 22,0 0,50 -22,0" fill="#1a1a1a"/>
+    <!-- V2 - outline grey, offset right -->
+    <polygon points="-5,0 25,65 55,0 47,0 25,50 3,0" fill="none" stroke="#999999" stroke-width="1.5"/>
+  </g>
+</svg>
